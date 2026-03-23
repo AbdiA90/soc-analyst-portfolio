@@ -4,7 +4,7 @@
 Aspiring SOC Analyst with hands-on experience in SIEM tools, log analysis, and incident investigation. Currently building practical cybersecurity skills through labs and real-world simulations.
 
 ## Skills
-- SIEM (Splunk, Security Onion)
+- SIEM (Splunk, Elastic Stack)
 - Log Analysis
 - Incident Investigation
 - Network Traffic Analysis

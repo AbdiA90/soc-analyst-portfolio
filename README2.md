@@ -17,7 +17,7 @@ Aspiring SOC Analyst with hands-on experience in SIEM tools, log analysis, and i
 
 ## Tools Used
 - Splunk
-- Security Onion
+- Elastic Stack
 - Wireshark
 - TryHackMe Labs
 
